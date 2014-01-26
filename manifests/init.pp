@@ -1,6 +1,6 @@
 class artifactory($jdk = "java-1.7.0-openjdk",
   $sourceforge = "http://downloads.sourceforge.net/project",
-  $version = "3.0.1") {
+  $version = "3.1.0") {
 
 # http://downloads.sourceforge.net/project/artifactory/artifactory/2.5.1.1/artifactory-2.5.1.1.rpm
 
